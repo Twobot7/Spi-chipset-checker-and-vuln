@@ -1,0 +1,3 @@
+C:/Users/onbot/Desktop/spi/out/build/x64-Debug/CMakeFiles/spi_flash_detector.dir
+C:/Users/onbot/Desktop/spi/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/onbot/Desktop/spi/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
